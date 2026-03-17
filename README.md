@@ -51,7 +51,9 @@ Enter number of pages: 3
 - amazon_products.xlsx
 
 ## 📸 Sample Output
-![Sample Output](output_example.png)
+<p align="center">
+ <img src="output_example.png" width="800"/>
+</p>
 
 ## 📌 Notes
 This scraper is for educational purposes.
