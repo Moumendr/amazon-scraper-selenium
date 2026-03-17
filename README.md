@@ -35,6 +35,7 @@ Selenium is used to simulate real user behavior and bypass basic anti-bot protec
 ```bash
 pip install -r requirements.txt
 python scraper.py
+```
 
 ## ⚙️ Configuration
 You can change the keyword and number of pages inside the script:
